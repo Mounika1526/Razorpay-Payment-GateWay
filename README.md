@@ -43,10 +43,4 @@ npm run dev
 
 This project is built with Vite, React, Shadcn, Tailwind CSS, React Router. For a complete list see `package.json`.
 
-## How can I deploy this project?
 
-Simply open [Layout app](https://layout.dev/projects/$PROJECT_ID) and publish the app from there.
-
-## I want to use a custom domain, is that possible?
-
-We don't support custom domains yet.
