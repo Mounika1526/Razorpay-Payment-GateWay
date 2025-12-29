@@ -9,7 +9,6 @@ export interface Product {
 
 export interface PaymentOrder {
   id: string;
-  orderId: string;
   amount: number;
   currency: string;
   receipt: string;

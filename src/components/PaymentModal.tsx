@@ -88,7 +88,7 @@ const PaymentModal: React.FC<PaymentModalProps> = ({
           name: "TechStore",
           description: product.name,
           image: "https://layout.dev/assets/templates/layout.svg",
-          order_id: order.id,
+          // order_id: order.id,
           handler: function (response: any) {
             console.log("Payment successful, response:", response);
             resolve({
